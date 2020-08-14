@@ -1,0 +1,15 @@
+Auth
+Open terminal
+laravel new Auth
+composer require laravel/ui
+composer require laravel/ui
+composer update
+composer fund
+composer require laravel/ui 
+php artisan ui vue --auth
+npm install; npm run dev
+open env. change database name
+create new database name on xammp
+open terminal
+php artisan config:cache
+php artisan cache:clear
